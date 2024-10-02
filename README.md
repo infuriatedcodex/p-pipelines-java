@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/paxadm/Landing%20Zones/_apis/build/status%2Finfuriatedcodex.p-pipelines-java?branchName=main)](https://dev.azure.com/paxadm/Landing%20Zones/_build/latest?definitionId=10&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
