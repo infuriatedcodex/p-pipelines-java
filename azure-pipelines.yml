@@ -13,7 +13,6 @@ parameters:
 
 trigger:
   - main
-  - releases/*
 
 strategy:
   matrix:
